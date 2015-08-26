@@ -1,0 +1,10 @@
+C:\Users\Bussan\Desktop\BQ.Access\BQ.Access\bin\Debug\BQ.Access.exe.config
+C:\Users\Bussan\Desktop\BQ.Access\BQ.Access\bin\Debug\BQ.Access.exe
+C:\Users\Bussan\Desktop\BQ.Access\BQ.Access\bin\Debug\BQ.Access.pdb
+C:\Users\Bussan\Desktop\BQ.Access\BQ.Access\obj\x86\Debug\BQ.Access.exe
+C:\Users\Bussan\Desktop\BQ.Access\BQ.Access\obj\x86\Debug\BQ.Access.pdb
+C:\BussanQCJ\my\BQ.Access\BQ.Access\bin\Debug\BQ.Access.exe.config
+C:\BussanQCJ\my\BQ.Access\BQ.Access\obj\x86\Debug\BQ.Access.exe
+C:\BussanQCJ\my\BQ.Access\BQ.Access\obj\x86\Debug\BQ.Access.pdb
+C:\BussanQCJ\my\BQ.Access\BQ.Access\bin\Debug\BQ.Access.exe
+C:\BussanQCJ\my\BQ.Access\BQ.Access\bin\Debug\BQ.Access.pdb
