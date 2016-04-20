@@ -13,7 +13,7 @@ namespace BQ.Access
     {
         static void Main(string[] args)
         {
-            string ss = "test";
+            string ss = "tests";
             DataSet s = DBAccess.Instance.Query("select * from TableTest");
             int i = DBAccess.Instance.ExecuteSql("insert into TableTest(TimeS,NameT) values ('2015-7-10','YY')");
         }
